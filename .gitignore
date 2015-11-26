@@ -2,3 +2,13 @@
 .env.*.php
 .env.php
 .env
+.DS_Store
+.idea
+node_modules
+bower_components
+public/css
+public/js
+public/fonts
+storage/
+vendor/
+bootstrap/cache
