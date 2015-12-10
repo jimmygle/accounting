@@ -11,4 +11,4 @@ public/js
 public/fonts
 storage/
 vendor/
-bootstrap/cache
+bootstrap/cache/*
